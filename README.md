@@ -91,4 +91,6 @@ In this statistical test we have performed t-test to determine if all manufactur
 
 4. The data required for this test would be a dataset with the cost of the car,its mpg and horsepower along with other variables that are important in determination of the cost of 
    the car like features, safety, technical features etc. The data should have a linear pattern and also there should be multiple observations for the independent variable that is
-   mpg, horespower,features,safety etc  and they must be different values.    
+   mpg, horsepower,features,safety etc  and they must be different values. 
+   Also we need to collect data from other car manufacturers with the same variables to compare the cost of the car and then make further analysis on the performance
+   of MechaCar compared to other cars. 
